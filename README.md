@@ -1,4 +1,4 @@
-# 4RTools - Ragnatales
+# ROBot
 
 Este projeto e uma adaptacao do projeto 4RTools para uso pessoal e como objeto de estudo, onde acrescento features na ferramenta para atender as minhas necessidades jogando no servidor Ragnatales.
 
@@ -6,7 +6,7 @@ Este projeto e uma adaptacao do projeto 4RTools para uso pessoal e como objeto d
 
 ## Rodando o projeto
 
-Caso voce queira usar esta versao do 4rTools voce pode ou extrair o `4RTools-dev-1.0.1.zip` com a release que esta na raiz do projeto, ou usando o Visual Studio 2022 abrir o `4RTools.sln` e rodar e gerar suas propias releases.
+Caso voce queira usar esta versao do 4rTools voce pode ou extrair o `ROBot-1.0.0.zip` com a release que esta na raiz do projeto, ou usando o Visual Studio 2022 abrir o `4RTools.sln` e rodar e gerar suas propias releases.
 
 ## Copiando perfil
 
