@@ -17,8 +17,6 @@ Voce pode copiar e substituir a pastar `Profile` de sua versao anterior do 4RToo
 - [x] Modo Escuro
 - [x] Auto-Transfer Itens
 - [x] Novas Skills de Sumo (Impositio Manus)
-
-### Versão 1.0.1
 - [x] Nova Skill de Archer (Disparo Selvagem)
 - [x] Nova Skill de Mestre Taekwon (Milagre solar, Lunar e Estelar)
 - [x] Nova Skill de Mestre Taekwon (Calor solar, Lunar e Estelar)
